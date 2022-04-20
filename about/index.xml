@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Das bin ich on Norbert Stich - existenzanalytischer Berater</title>
+    <link>https://example.com/about/</link>
+    <description>Recent content in Das bin ich on Norbert Stich - existenzanalytischer Berater</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>de-at</language>
+    <lastBuildDate>Wed, 20 Apr 2022 08:18:35 +0200</lastBuildDate><atom:link href="https://example.com/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Über mich</title>
+      <link>https://example.com/about/%C3%BCbermich/</link>
+      <pubDate>Wed, 20 Apr 2022 08:18:35 +0200</pubDate>
+      
+      <guid>https://example.com/about/%C3%BCbermich/</guid>
+      <description>Ich mag Menschen. Einen Menschen in seiner Einmaligkeit und in seinem Wesen zu erkennen, ist für mich immer wieder interessant und faszinierend. Ich liebe Menschen, die sich authentisch geben, die Originale und Typen. Menschen mit all ihren Ecken, Kanten und Besonderheiten und ihren verschiedenen Arten zu leben. Ich mag diese Vielfalt, die unterschiedlichsten Seins- und Lebensweisen.
+Schön finde ich es, wenn diese bunte Vielfalt an Menschen eine Gemeinschaft bilden kann, in der jede und jeder sein darf, wie sie (er) ist.</description>
+    </item>
+    
+    <item>
+      <title>Ausbildung und fachspezifische Erfahrung</title>
+      <link>https://example.com/about/ausbildung/</link>
+      <pubDate>Mon, 18 Apr 2022 17:16:54 +0200</pubDate>
+      
+      <guid>https://example.com/about/ausbildung/</guid>
+      <description>Folgende Ausbildungen und fachspezifische Erfahrungen habe ich weiters gemacht (und kann ich einbringen):
+ Studium der Molekularbiologie und eine fachspezifische Dissertation Deutschlehrer für AsylwerberInnen bei der Caritas Wien Absolvierung des Lehrgangs zur Lebens-, Trauer- und Sterbebegleitung im Kardinal König Haus, Wien Begleitung von Menschen mit Demenz bei der Caritas Socialis, Wien Rennweg Diplomierter Lebens- und Sozialberater für Logotherapie und existenzanalytische Beratung und Begleitung (GLE Österreich), Wien Psychotherapeutisches Propädeutikum, Salzburg Begleitung traumatisierter Kinder im Mutter-Kind-Haus Immanuel der Caritas, Wien Fachassistenz bei der Österreichischen Autistenhilfe Begleitung von ehemals wohnungslosen Menschen im Haus Allerheiligen der Caritas, Wien  </description>
+    </item>
+    
+    <item>
+      <title>Inspirierende Literatur</title>
+      <link>https://example.com/about/literatur/</link>
+      <pubDate>Mon, 18 Apr 2022 16:26:06 +0200</pubDate>
+      
+      <guid>https://example.com/about/literatur/</guid>
+      <description>Eine kleine Auswahl an inspirierender Literatur:
+Bauer, J. Selbststeuerung. Blessing Verlag.
+Buber, M. Ich und Du. Lambert Schneider Verlag.
+Dostojewski, F. Der Idiot. Piper Verlag.
+Dostojewski, F. Verbrechen und Strafe. Fischer Verlag.
+Frankl, V. &amp;hellip;trotzdem Ja zum Leben sagen. Ein Psychologe erlebt das Konzentrationslager. Deutscher Taschenbuch Verlag.
+Frankl, V. Zeiten der Entscheidung. Herder Spektrum Verlag.
+Fromm, E. Haben oder Sein. dtv Verlag.
+Fromm, E. Die Kunst des Liebens. Ullstein Verlag.</description>
+    </item>
+    
+    <item>
+      <title>Impressum</title>
+      <link>https://example.com/about/impressum/</link>
+      <pubDate>Mon, 18 Apr 2022 13:24:41 +0200</pubDate>
+      
+      <guid>https://example.com/about/impressum/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
